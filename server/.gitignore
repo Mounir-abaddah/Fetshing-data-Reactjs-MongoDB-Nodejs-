@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Environnement
+.env
+
+# Fichiers de build
+/build
+/.next
+/out
+
+# Fichiers de log
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
